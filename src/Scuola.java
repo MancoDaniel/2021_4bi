@@ -3,6 +3,8 @@ import java.util.*;
 
 /**
  * 
+ * @author versione 2
+ *
  */
 public class Scuola {
 
